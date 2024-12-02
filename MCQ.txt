@@ -1,0 +1,18 @@
+1.which of the following data structure can be erased?
+
+A) deque
+B) vector
+C) stack
+D) segment tree
+
+Answer: A) deque
+
+
+2.How many Tuples does the result of the  following sql Query where result = 'Supplymentary' 
+
+A) 2
+B) 0
+C) 3
+D) 4
+
+Answer: A) 2
